@@ -1,4 +1,7 @@
 <?php
+
+namespace sleifer\boletosPHP;
+
 /*
  * Name: boletoPHP
  * Version: 1.0
